@@ -7,4 +7,5 @@ refactor: (#이슈번호) 코드 리펙토링 <br/>
 test: (#이슈번호) 테스트 코드, 리펙토링 테스트 코드 추가 <br/>
 chore: (#이슈번호) 빌드 업무 수정, 패키지 매니저 수정 <br/>
 
-## branch : feature/기능이름
+## branch 전략
+feature/ 기능이름
